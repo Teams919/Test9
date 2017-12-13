@@ -1,8 +1,9 @@
 package cn.entity;
-//³èÎïÀà
+//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 public class Animal {
     
 	String name;
 	String sex;
 	int weight;
+	int ss;
 }
